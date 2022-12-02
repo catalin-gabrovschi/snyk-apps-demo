@@ -80,3 +80,4 @@ This will register your new app with Snyk and create the `.env` file (see below)
 ## The .env File:
 
 The `.env` file is used to store environmental variables. Ensure this remains secret! If you've already created a Snyk App, you can copy `.env.example` and set the values.
+Extra `test` line
