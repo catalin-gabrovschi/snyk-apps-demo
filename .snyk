@@ -1,7 +1,7 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
 version: v1.22.2
 ignore:
-  SNYK-JS-LUXON-3225081
+  SNYK-JS-LUXON-3225081:
     - '*':
       reason: Test ignore CG
       expires: 2024-03-01T00:00:00.000Z
